@@ -1,0 +1,2 @@
+Primary Color : #3598db
+Secondary Color : #2c3e50
